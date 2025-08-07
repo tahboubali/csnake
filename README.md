@@ -7,11 +7,11 @@ The game is fully configurable in terms of initial game variables.
 You can configure the following paramaters when running the game in the passed in arguments.
 
 <ol>
-  <li>width</li>
-  <li>height</li>
-  <li>size</li>
-  <li>fruits</li>
-  <li>speed</li>
+  <li><code>width</code></li>
+  <li><code>height</code></li>
+  <li><code>size</code></li>
+  <li><code>fruits</code></li>
+  <li><code>speed</code></li>
 </ol>
 
 <h2>The format to change a property is strictly as follows</h2>
